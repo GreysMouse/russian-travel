@@ -1,5 +1,5 @@
 # Проект №3: __"Путешествия по России"__
-_https://greysmouse.github.io/russian-travel/_
+_https://greysmouse.github.io/russian-travel/index.html_
 
 
 ### О проекте
