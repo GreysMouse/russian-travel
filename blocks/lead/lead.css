@@ -6,13 +6,13 @@
   padding: 0 148px;
 }
 
-@media screen and (max-width: 1024px) {
+@media screen and (max-width: 1150px) {
   .lead {
     padding: 0 48px;
   }
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 920px) {
   .lead {
     padding: 0;
   }

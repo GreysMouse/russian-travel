@@ -5,13 +5,13 @@
   padding: 0 48px;
 }
 
-@media screen and (max-width: 1024px) {
+@media screen and (max-width: 1150px) {
   .photo-grid {
     gap: 14px;
   }
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 920px) {
   .photo-grid {
     gap: 16px;
     padding: 0 24px;

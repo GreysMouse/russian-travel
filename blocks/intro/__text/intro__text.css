@@ -7,7 +7,7 @@
   font-weight: normal;
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 920px) {
   .intro__text {
     max-width: 720px;
   }

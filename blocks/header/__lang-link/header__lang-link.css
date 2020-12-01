@@ -6,6 +6,11 @@
   font-weight: normal;
   text-decoration: none;
   cursor: url(../../../images/pointer.svg), pointer;
+  transition: opacity 0.3s linear;
+}
+
+.header__lang-link:hover {
+  opacity: 0.8;
 }
 
 @media screen and (max-width: 720px) {
